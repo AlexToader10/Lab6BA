@@ -1,0 +1,13 @@
+Branch,Claim_Type,Average_Processing_Time
+Bucuresti,Auto,6
+Bucuresti,Home,23
+Bucuresti,Health,13
+Cluj,Auto,4
+Cluj,Home,15
+Cluj,Health,19
+Iasi,Auto,3
+Iasi,Home,13
+Iasi,Health,14
+Brasov,Auto,6
+Brasov,Home,13
+Brasov,Health,12
